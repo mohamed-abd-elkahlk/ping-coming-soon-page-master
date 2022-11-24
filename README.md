@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pingcomingsoonpagemaster-PviGMaYtEr)
-- Live Site URL: [Add live site URL here](https://mohamed-abd-elkahlk.github.io/ping-coming-soon-page-master/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/pingcomingsoonpagemaster-PviGMaYtEr)
+- Live Site URL: [here](https://mohamed-abd-elkahlk.github.io/ping-coming-soon-page-master/)
 
 ## Author
 
