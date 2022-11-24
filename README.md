@@ -20,9 +20,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/pingcomingsoonpagemaster-PviGMaYtEr)
+- Live Site URL: [Add live site URL here](https://mohamed-abd-elkahlk.github.io/ping-coming-soon-page-master/)
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mohamed-abd-elkahlk](https://www.frontendmentor.io/profile/mohamed-abd-elkahlk)
